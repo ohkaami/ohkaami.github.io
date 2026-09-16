@@ -5,5 +5,5 @@ Portfólio pessoal em HTML/CSS, com estética cyberpunk/arcade, fundo preto quad
 ## Publicar no GitHub Pages
 
 O endereço será:
-`https://ohkaami.github.io/`
+
 
